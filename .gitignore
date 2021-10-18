@@ -1,11 +1,10 @@
 # dependencies
-/client/node_modules
-/server/node_modules
+**/node_modules
 
 # misc
-.DS_Store
-yarn-debug.log*
-yarn-error.log*
+**/.DS_Store
+**/yarn-debug.log*
+**/yarn-error.log*
 
 # IDEs and editors
 /.idea

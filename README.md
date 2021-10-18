@@ -1,4 +1,8 @@
-### Booking Application Coding Challenge
+## Booking Application Coding Challenge
+
+![](demo/demo.gif)
+
+### Features
 
 - Display all time slots sorted by date and time. Grouped by date
 - User can set a reservation for a any available time slots
